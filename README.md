@@ -108,3 +108,9 @@ python3 serve.py --host 0.0.0.0 --port 3000
 - The hosted restoration remains private until Christopher approves broader access.
 
 Restoration prepared for **Rice2k** on September 13–14, 2026.
+
+## Related Rice2K projects
+
+The historical restoration documents recovered pages and missing files. Its separately hosted restored demo is currently owner-private; the public repository is the available research entry point.
+
+[Old Free Online Resources](https://github.com/rice2k/old-free-online-resources) · [AOL Progz preservation](https://github.com/rice2k/AOL-Progz) · [Search public web archives](https://rice2k.github.io/rice2k-startdeck/projects/?category=Web%20Archives)
